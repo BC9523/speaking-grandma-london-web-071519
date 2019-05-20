@@ -5,8 +5,6 @@ def speak_to_grandma(phrase)
     return 'No, not since 1938!'.uppercase
   else 
     return 'Huh?! speak up, sonny!'.uppercase
-  
-  
 end
 
 
